@@ -1,0 +1,12 @@
+.box{
+    height: 550px;
+    width: 550px;
+    background-color: white;
+    border: 1PX solid #b4b4b4;
+}
+p{
+    color: #808080;
+}
+.inside{
+    padding: 50px 70px 70px 100px;
+}
